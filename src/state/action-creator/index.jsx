@@ -1,4 +1,4 @@
-export const depositMoney =  (amount) =>{
+export const depositeMoney =  (amount) =>{
     return (dispatch)=>{
         // call dispatch
         dispatch({
